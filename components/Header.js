@@ -17,7 +17,7 @@ const Header = () => {
                 </nav>
             </header>
             <div className="hero" style={{ backgroundImage: "url('https://cdn.pixabay.com/photo/2024/02/24/20/55/cards-8594729_1280.jpg')" }}>
-                <h2 className="text-white">CardNews.</h2>
+                <h2 className="text-white">CardNews - for 답다.</h2>
                 <p className="text-white">Discover captivating stories from around the globe, one card at a time.</p>
                 <button className="view-latest text-white">View Latest Posts</button>
             </div>
